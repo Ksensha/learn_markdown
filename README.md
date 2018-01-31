@@ -15,6 +15,13 @@
 
 >цитатка два 
 
+## Картинки
+![Yoda conditions](https://i.imgur.com/ROBU275.png)
+
+![Yoda conditions][yoda]
+
+[yoda]: https://i.imgur.com/ROBU275.png
+
 ## Ссылки
 http://futurebanking.ru/it
 
