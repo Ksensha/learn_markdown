@@ -9,9 +9,9 @@ http://futurebanking.ru/it
 [Future banking](http://futurebanking.ru/it) бла бла бла 
 
 ## Ссылка с меткой
-[protocol][wewewe] dsfsdfsdfs
+[protocol][google] dsfsdfsdfs
 
-[wewewe]: http://futurebanking.ru/it
+[google]: https://www.google.ru/?gfe_rd=cr&dcr=0&ei=UrRxWqXtEdDRdMaYhbAC
 
 # Code
 
