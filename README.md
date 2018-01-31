@@ -16,7 +16,7 @@ echo "Hello world"
 ## Подсветка синтаксиса
 ```python
 for i in range(10):
-    print (1)
+    print(1)
 ```
 
 # Маркированные списки 
