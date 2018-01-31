@@ -5,6 +5,10 @@
 ## Ссылки
 http://futurebanking.ru/it
 
+## URL становится ссылкой
+
+http://futurebanking.ru/it
+
 ## Внутристрочная ссылка
 [Future banking](http://futurebanking.ru/it) бла бла бла 
 
@@ -12,6 +16,10 @@ http://futurebanking.ru/it
 [protocol][google] dsfsdfsdfs
 
 [google]: https://www.google.ru/?gfe_rd=cr&dcr=0&ei=UrRxWqXtEdDRdMaYhbAC
+
+## Ссылка внутри документа
+
+[Пример](#url-становится-ссылкой)
 
 # Code
 
