@@ -8,6 +8,10 @@ http://futurebanking.ru/it
 ## Внутристрочная ссылка
 [Future banking](http://futurebanking.ru/it) бла бла бла 
 
+## Ссылка с меткой
+[protocol][wewewe] dsfsdfsdfs
+[wewewe]: http://futurebanking.ru/it
+
 # Code
 
 ## Внутристрочное форматирование 
