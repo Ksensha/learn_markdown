@@ -2,6 +2,12 @@
 
 изучаем разметку markdown
 
+## Ссылки
+http://futurebanking.ru/it
+
+## Внутристрочная ссылка
+[Future banking](http://futurebanking.ru/it) бла бла бла 
+
 # Code
 
 ## Внутристрочное форматирование 
